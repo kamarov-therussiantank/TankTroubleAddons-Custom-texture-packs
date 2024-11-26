@@ -1,2 +1,2 @@
 # custom-tanktrouble-texturepacks
-<div><img src="chrome-extension://jchfcaapoicaabcgffnfdbhfddahaami/assets/menu/menu@2x.png"><div/>This will be the custom texture archive repository.
+This repository is dedicated to custom textures for the TankTroubleAddons extension. It contains a collection of unique textures.
