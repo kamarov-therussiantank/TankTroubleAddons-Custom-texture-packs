@@ -8,9 +8,11 @@ This repository is dedicated to TankTroubleAddons extension. It contains a colle
   3. It will automatically download textures for you once clicked.
  
 - Load:
-  1. Open TanktroubleAddons menu
+  1. Open TankTroubleAddons menu
   2. Find "Texture pack from file" and click "Load" button
-  3. Select texture pack, and thats it
+  3. Select texture pack you want to load
+ 
+And thats it, nothing complicated.
 
 # Archive
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/light-textures.png" style="width: 15px"> Light texture packs:<div/>
