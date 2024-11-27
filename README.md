@@ -1,5 +1,5 @@
 # Custom TankTrouble Texturepacks
-This repository is dedicated to TankTroubleAddons extension. It contains a collection of unique textures. Since the extension provides functions that gives us accessibility to the textures that are built in the extension, and accessibility to custom textures.
+This repository is dedicated to TankTroubleAddons extension. It contains a collection of unique textures. Since the extension provides functions that gives us accessibility to the textures that are built in the extension, and accessibility to custom textures. Textures are located in the [Archive](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/raw/refs/heads/main/classic-light-texturepack.zip).
 
 # How to install/load custom textures
 
