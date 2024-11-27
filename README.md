@@ -3,14 +3,14 @@ This repository is dedicated to TankTroubleAddons extension. It contains a colle
 
 # How to download/load custom textures
 - Download:
-  1. Click/Go to "Archive"
-  2. Click on one of the textures bellow
-  3. It will automatically download textures for you once clicked.
+  - Click/Go to "Archive"
+  - Click on one of the textures bellow
+  - It will automatically download textures for you once clicked.
  
 - Load:
-  1. Open TankTroubleAddons menu
-  2. Find "Texture pack from file" and click "Load" button
-  3. Select texture pack you want to load
+  - Open TankTroubleAddons menu
+  - Find "Texture pack from file" and click "Load" button
+  - Select texture pack you want to load
  
 And thats it, nothing complicated.
 
