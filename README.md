@@ -9,7 +9,8 @@ This repository is dedicated to TankTroubleAddons extension. It contains a colle
  
 - Load:
   - Open TankTroubleAddons menu
-  - Find "Texture pack from file" and click "Load" button
+  - Find "Texture packs" section and click on the button bellow it
+  - An dropping window will appear, with few selections, find and click "Add from zip..."
   - Select texture pack you want to load
  
 And thats it, nothing complicated.
