@@ -12,7 +12,7 @@ This repository is chained to [TankTroubleAddons v2](https://github.com/asger-fi
   - Find "Texture packs" section and click on the button bellow it
   - An dropping window will appear, with few selections, find and click "Add from zip..."
   - Select texture pack you want to load
- 
+
 
 # Archive
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/light-textures.png" style="width: 15px"> Light texture packs:<div/>
