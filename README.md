@@ -11,7 +11,7 @@ This repository is chained to [TankTroubleAddons v2](https://github.com/asger-fi
   - Open TankTroubleAddons menu
   - Find "Texture packs" section and click on the button bellow it
   - An dropping window will appear, with few selections, find and click "Add from zip..."
-  - Select texture pack you want to load
+  - Select texturepack you want to load
 
 
 # Archive
