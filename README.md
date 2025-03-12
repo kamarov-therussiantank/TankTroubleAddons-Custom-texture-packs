@@ -2,8 +2,14 @@
   <img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/icon/addonsIcon.png" style="width: 60px;">
 </div>
 
+<div align="center">
+  TankTroubleAddons
+</div>
+
+<br>
+
 # Custom TankTrouble texture packs
-This repository is chained to [TankTroubleAddons v2](https://github.com/asger-finding/tanktroubleaddons) extension. It contains a collection of unique textures. Since the extension provides functionality that gives us accessibility to the textures that are built in the extension, and accessibility to custom textures, pretty sick right! Check [Archive](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/blob/main/README.md#archive) for complete list of custom textures.
+This repository is chained to [TankTroubleAddons v2](https://chromewebstore.google.com/detail/tanktroubleaddons/ekjcldgkpfdnnffgliempinlpnjioebk) extension. It contains a collection of unique textures. Since the extension provides functionality that gives us accessibility to the textures that are built in the extension, and accessibility to custom textures, pretty sick right! Check [Archive](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/blob/main/README.md#archive) for complete list of custom textures.
 
 # How to download/load custom textures
 - Download:
