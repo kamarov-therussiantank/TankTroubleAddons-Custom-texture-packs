@@ -32,5 +32,5 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
    
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/dark-textures.png" style="width: 15px"> Dark texture packs:<div/>
    
-  - [Classic Light textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/blob/main/texturepacks/Classic%20Dark.zip)
+  - [Classic Dark textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/blob/main/texturepacks/Classic%20Dark.zip)
   - [Simple Dark textures](https://github.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/raw/refs/heads/main/texturepacks/simple-dark-texturepack.zip)
