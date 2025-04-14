@@ -38,3 +38,4 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
 <div><img src="https://raw.githubusercontent.com/kamarov-therussiantank/custom-tanktrouble-texturepacks/refs/heads/main/tex-buttons/other-textures.png" style="width: 15px"> Other texture packs:<div/>
    
   - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Lucky%20Crate.zip)
+  - [Easter textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Easter.zip)
