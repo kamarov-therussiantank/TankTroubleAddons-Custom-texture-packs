@@ -39,6 +39,6 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
    
   - [Lucky Crates](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Lucky%20Crate.zip)
   - [Easter textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Easter.zip)
-  - [Leafy textures](https://t.ly/leafy-theme)
+  - [Leafy textures](http://tiny.cc/leafy_theme)
   - [Nelly Belly Wonderland textures](https://t.ly/C9k0G)
   - [Neon textures](https://drive.google.com/file/d/1mMNv5B2Qlup54AZADblkzOvBfKG0D7kx/view)
