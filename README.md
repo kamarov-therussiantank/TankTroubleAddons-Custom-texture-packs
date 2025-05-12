@@ -41,4 +41,4 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
   - [Easter textures](https://github.com/kamarov-therussiantank/TankTroubleAddons-Custom-texture-packs/raw/refs/heads/main/texturepacks/Easter.zip)
   - [Leafy textures](http://tiny.cc/leafy_theme)
   - [Nelly Belly Wonderland textures](https://t.ly/C9k0G)
-  - [Neon textures](https://drive.google.com/file/d/1mMNv5B2Qlup54AZADblkzOvBfKG0D7kx/view)
+  - [Neon textures](https://drive.google.com/file/d/1ZnxQ_PhZBmua2uILrza7hXQaNQ53Ynvt/view)
