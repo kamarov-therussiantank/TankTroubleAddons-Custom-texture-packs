@@ -42,3 +42,4 @@ This repository is chained to [TankTroubleAddons v2](https://chromewebstore.goog
   - [Leafy textures](http://tiny.cc/leafy_theme)
   - [Nelly Belly Wonderland textures](https://t.ly/C9k0G)
   - [Neon textures](https://drive.google.com/file/d/1ZnxQ_PhZBmua2uILrza7hXQaNQ53Ynvt/view)
+  - [Mand textures](https://tinyurl.com/mand-texture)
